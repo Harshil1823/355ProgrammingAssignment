@@ -1,0 +1,4 @@
+Build:
+  javac NFASimulator.java
+Run:
+  java NFASimulator

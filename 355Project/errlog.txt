@@ -1,0 +1,6 @@
+Note: ENFAToNFAConverter.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+Done.
+Comments are in /Users/harshilshah/Desktop/csce-355/355Project/comments.txt
+

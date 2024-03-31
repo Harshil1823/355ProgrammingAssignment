@@ -1,0 +1,27 @@
+Comments for self-test -------- Sat Mar 30, 2024 at 22:25:57 EDT
+parsing e-remove.txt ... done
+building e-remove ...
+  javac ENFAToNFAConverter.java
+    succeeded
+done
+testing e-remove ...
+done with e-remove
+
+parsing simulate.txt ... done
+building simulate ...
+  javac NFASimulator.java
+    succeeded
+done
+testing simulate ...
+done with simulate
+
+######################################################
+Summary for self-test:
+
+e-remove: execution always completed without errors
+  progress level 5 with 0 execution errors
+simulate: execution always completed without errors
+  progress level 5 with 0 execution errors
+
+There were a total of 0 execution errors found.
+######################################################
